@@ -1,3 +1,4 @@
+
 .App {
   text-align: center;
 }
@@ -35,4 +36,26 @@
   to {
     transform: rotate(360deg);
   }
+}
+.animalPics {
+height: 140px;
+width: 130px;
+}
+
+.select {
+  list-style-type: none;
+}
+.option {
+  list-style-type: none;
+}
+
+.li {
+  list-style-type: none;
+}
+
+.ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
 }
