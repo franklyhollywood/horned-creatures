@@ -74,3 +74,7 @@ HTML: dropdown selector
 space to inject images
 
 events: on dropdown selector chooses images
+
+
+
+   {/* */}
